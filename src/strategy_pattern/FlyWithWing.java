@@ -1,4 +1,4 @@
-package test;
+package strategy_pattern;
 
 public class FlyWithWing implements FlyBehavior {
 
